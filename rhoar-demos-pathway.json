@@ -3,7 +3,7 @@
   "description": "",
   "courses": [
     {
-      "pathway_id": "jboss-eap/scenarios",
+      "pathway_id": "rhoar-demos/scenarios",
       "course_id": "getting-started",
       "id": "getting-started",
       "title": "Getting Started with OpenShift"
