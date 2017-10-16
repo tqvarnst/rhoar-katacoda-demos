@@ -1,11 +1,11 @@
 {
-  "title": "My First Scenario",
-  "description": "Learning how to educate via Katacoda",
+  "title": "Developing microservices with WildFly Swarm",
+  "description": "Learn how to develop microservices using WildFly Swarm",
   "details": {
     "steps": [
-      { "title": "Title", "text": "step1.md" },
-      { "title": "Goes", "text": "step2.md" },
-      { "title": "Here", "text": "step3.md" }
+      { "title": "Step 1", "text": "step1.md" },
+      { "title": "Step 2", "text": "step2.md" },
+      { "title": "Step 3", "text": "step3.md" }
     ],
     "intro": {
       "text": "intro.md",
@@ -16,7 +16,10 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "showdashboard": true,
+    "dashboard": "Dashboard",
+    "uilayout": "editor-terminal",
+    "uisettings": "java",
   },
   "backend": {
     "imageid": "openshift-middleware",
