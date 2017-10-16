@@ -19,7 +19,7 @@
     "showdashboard": true,
     "dashboard": "Dashboard",
     "uilayout": "editor-terminal",
-    "uisettings": "java",
+    "uisettings": "java"
   },
   "backend": {
     "imageid": "openshift-middleware",
