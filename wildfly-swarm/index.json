@@ -17,7 +17,7 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboard": "Dashboard",
+    "dashboards": [{"name":"OpenShift Console","port":8443}],
     "uilayout": "editor-terminal",
     "uisettings": "java"
   },
