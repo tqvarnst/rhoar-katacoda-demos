@@ -9,7 +9,8 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "env-init.sh"
+      "courseData": "env-init.sh",
+      "code":"client-init.sh"
     },
     "finish": {
       "text": "finish.md"
