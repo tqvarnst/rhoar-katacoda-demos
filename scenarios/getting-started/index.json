@@ -30,5 +30,9 @@
         "showdashboard": true,
         "hideintro": false,
         "dashboard": "OpenShift Console"
+    },
+    "backend": {
+        "imageid": "openshift",
+        "port": 8443
     }
 }
