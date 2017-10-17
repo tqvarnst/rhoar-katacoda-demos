@@ -2,6 +2,14 @@
   "title": "Developing microservices with WildFly Swarm",
   "description": "Learn how to develop microservices using WildFly Swarm",
   "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "assets/project",
+          "target": "~/"
+        }
+      ]
+    },
     "steps": [
       { "title": "Step 1", "text": "step1.md" },
       { "title": "Step 2", "text": "step2.md" },
