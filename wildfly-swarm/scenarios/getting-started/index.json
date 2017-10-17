@@ -5,7 +5,7 @@
     "assets": {
       "client": [
         {
-          "file": "assets/project",
+          "file": "assets/project/*",
           "target": "~/"
         }
       ]
