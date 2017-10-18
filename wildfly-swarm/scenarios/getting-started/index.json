@@ -5,7 +5,7 @@
     "assets": {
       "client": [
         {
-          "file": "project/*",
+          "file": "project/Jenkinsfile",
           "target": "~/"
         }
       ]
