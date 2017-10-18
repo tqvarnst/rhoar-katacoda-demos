@@ -24,6 +24,9 @@
       "text": "finish.md"
     }
   },
+  "files": [
+    "MyFirstJavaApp.java"
+  ],
   "environment": {
     "showdashboard": true,
     "dashboards": [{"name":"OpenShift Console","port":8443}],
