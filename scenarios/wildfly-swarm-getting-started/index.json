@@ -22,7 +22,7 @@
     "assets": {
       "client": [
         {
-          "file": "my-first-project/*",
+          "file": "project.tar.gz",
           "target": "~/"
         }
       ]
