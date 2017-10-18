@@ -1,4 +1,5 @@
 #!/bin/bash
+~/.launch.sh
 
 echo Installing Java
 yum install -y -q -e 0 java-1.8.0-openjdk-devel
