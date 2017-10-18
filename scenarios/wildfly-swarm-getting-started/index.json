@@ -1,6 +1,10 @@
 {
+  "pathwayTitle": "Learn OpenShift Application Runtime",
+  "icon": "fa-openshift",
   "title": "Test - Developing microservices with WildFly Swarm",
-  "description": "Learn how to develop microservices using WildFly Swarm",
+  "description": "",
+  "difficulty": "beginner",
+  "time": "15 minutes",
   "details": {
     "steps": [
       { "title": "Step 1", "text": "step1.md" },
