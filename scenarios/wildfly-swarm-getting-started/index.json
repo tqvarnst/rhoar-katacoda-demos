@@ -18,15 +18,15 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "MyFirstJava.java",
+          "target": "~/"
+        }
+      ]
     }
-  },
-  "assets": {
-    "client": [
-      {
-        "file": "MyFirstJava.java",
-        "target": "~/"
-      }
-    ]
   },
   "files": [
     "MyFirstJava.java"
