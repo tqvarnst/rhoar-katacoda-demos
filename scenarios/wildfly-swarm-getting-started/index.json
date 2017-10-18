@@ -20,8 +20,16 @@
       "text": "finish.md"
     }
   },
+  "assets": {
+    "client": [
+      {
+        "file": "MyFirstJava.java",
+        "target": "~/"
+      }
+    ]
+  },
   "files": [
-    "my-first-project/src/main/java/io/openshift/boosters/Greeting.java"
+    "MyFirstJava.java"
   ],
   "environment": {
     "showdashboard": true,
@@ -30,7 +38,7 @@
     "uisettings": "java"
   },
   "backend": {
-    "imageid": "openshift",
+    "imageid": "openshift-middleware",
     "port": 8443
   }
 }
