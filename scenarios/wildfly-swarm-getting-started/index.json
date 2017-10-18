@@ -22,14 +22,14 @@
     "assets": {
       "client": [
         {
-          "file": "MyFirstJava.java",
+          "file": "my-first-project",
           "target": "~/"
         }
       ]
     }
   },
   "files": [
-    "MyFirstJava.java"
+    "my-first-project/src/main/java/io/openshift/boosters/Greeting.java"
   ],
   "environment": {
     "showdashboard": true,
