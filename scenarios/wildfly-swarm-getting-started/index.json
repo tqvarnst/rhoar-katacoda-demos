@@ -22,15 +22,12 @@
     "assets": {
       "client": [
         {
-          "file": "project.tar.gz",
-          "target": "~/"
+          "file": ".project.tar.gz",
+          "target": "/root/"
         }
       ]
     }
   },
-  "files": [
-    "src/main/java/io/openshift/boosters/Greeting.java"
-  ],
   "environment": {
     "showdashboard": true,
     "dashboards": [{"name":"OpenShift Console","port":8443}],
