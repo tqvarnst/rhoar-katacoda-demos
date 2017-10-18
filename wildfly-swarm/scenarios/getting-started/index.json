@@ -2,14 +2,6 @@
   "title": "Developing microservices with WildFly Swarm",
   "description": "Learn how to develop microservices using WildFly Swarm",
   "details": {
-    "assets": {
-      "client": [
-        {
-          "file": "project/Jenkinsfile",
-          "target": "~/"
-        }
-      ]
-    },
     "steps": [
       { "title": "Step 1", "text": "step1.md" },
       { "title": "Step 2", "text": "step2.md" },
@@ -34,7 +26,7 @@
     "uisettings": "java"
   },
   "backend": {
-    "imageid": "openshift-middleware",
+    "imageid": "openshift",
     "port": 8443
   }
 }
