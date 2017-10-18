@@ -17,7 +17,7 @@
     }
   },
   "files": [
-    "MyFirstJavaApp.java"
+    "my-first-project/src/main/java/io/openshift/boosters/Greeting.java"
   ],
   "environment": {
     "showdashboard": true,
