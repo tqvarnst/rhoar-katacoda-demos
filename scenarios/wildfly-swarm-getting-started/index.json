@@ -18,21 +18,14 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "host01": [
-        {
-          "file": "*",
-          "target": "~/"
-        }
-      ]
     }
   },
   "environment": {
     "showdashboard": true,
     "dashboards": [{"name":"OpenShift Console","port":8443}],
     "uilayout": "editor-terminal",
-    "uisettings": "java"
+    "uisettings": "java",
+    "uieditorpath": "/root/project"
   },
   "backend": {
     "imageid": "openshift-middleware",
