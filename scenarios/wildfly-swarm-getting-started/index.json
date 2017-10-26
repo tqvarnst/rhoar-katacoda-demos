@@ -22,11 +22,10 @@
     "assets": {
       "client": [
         {
-          "file": ".project.tar.gz",
-          "target": "/root/"
+          "file": "testfile",
+          "target": "~/"
         }
       ]
-    }
   },
   "environment": {
     "showdashboard": true,
