@@ -25,7 +25,7 @@
     "dashboards": [{"name":"OpenShift Console","port":8443}],
     "uilayout": "editor-terminal",
     "uisettings": "java",
-    "uieditorpath": "/root/project"
+    "uieditorpath": "/root"
   },
   "backend": {
     "imageid": "openshift-middleware",
