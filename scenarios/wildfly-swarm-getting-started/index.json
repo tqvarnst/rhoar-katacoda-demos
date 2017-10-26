@@ -20,15 +20,9 @@
       "text": "finish.md"
     },
     "assets": {
-      "client": [
-        {
-          "file": "testfile",
-          "target": "~/"
-        }
-      ],
       "host01": [
         {
-          "file": "testfile",
+          "file": "*",
           "target": "~/"
         }
       ]

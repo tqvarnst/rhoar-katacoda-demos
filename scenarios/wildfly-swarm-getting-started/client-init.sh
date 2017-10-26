@@ -11,8 +11,8 @@ export PATH=$PATH:apache-maven-3.2.2/bin
 # echo Download project template
 # git clone -q https://github.com/wildfly-swarm-openshiftio-boosters/wfswarm-health-check.git my-first-project
 
-echo Unzipping project
-tar -zxf project.tar.gz
+#echo Unzipping project
+#tar -zxf project.tar.gz
 
 echo Install image streams
 for i in {1..200}; do oc create -f https://raw.githubusercontent.com/jboss-openshift/application-templates/ose-v1.4.5/jboss-image-streams.json -n openshift && break || sleep 1; done
