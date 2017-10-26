@@ -25,6 +25,12 @@
           "file": "testfile",
           "target": "~/"
         }
+      ],
+      "host01": [
+        {
+          "file": "testfile",
+          "target": "~/"
+        }
       ]
     }
   },
