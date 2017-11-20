@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Learn OpenShift Application Runtime",
   "icon": "fa-openshift",
-  "title": "Test - Developing microservices with WildFly Swarm",
+  "title": "Test - Developing microservices with Eclipse Vert.x",
   "description": "",
   "difficulty": "beginner",
   "time": "15 minutes",
