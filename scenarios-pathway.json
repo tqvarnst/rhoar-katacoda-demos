@@ -6,6 +6,11 @@
         "pathway_id": "scenarios",
         "course_id": "wildfly-swarm-getting-started",
         "title": "Getting Started with WildFly Swarm on Openshift"
-      }
+      },
+      {
+        "pathway_id": "scenarios",
+        "course_id": "vert.x",
+        "title": "Getting Started with Eclipse Vert.x on Openshift"
+      }  
     ]
   }
